@@ -1,0 +1,23 @@
+{
+  "name": "http-cache",
+  "version": "0.0.1",
+  "description": "http request cache",
+  "repository": "https://gitee.com/wuliaodexuanze/http-cache.git",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "mocha --reporter spec"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "cache"
+  ],
+  "author": "jayafs",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "typescript": "^4.1.2"
+  }
+}
