@@ -1,20 +1,20 @@
-# http-cache
+# http-request-cache
 http请求数据缓存
 
-- [http-cache](#http-cache)
+- [http-request-cache](#http-request-cache)
   - [use](#use)
   - [example](#example)
 
 
 ## use
 ```shell
-npm i http-cache
+npm i http-request-cache
 ```
 
 ## example
 ```javascript
 // 引入包
-const { HttpRequestCache } = require('http-cache')
+const { HttpRequestCache } = require('http-request-cache')
 /**
  * 设置缓存
  * @param name 缓存名称，建议url加参数生成特殊字符串

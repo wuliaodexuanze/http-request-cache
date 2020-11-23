@@ -1,8 +1,8 @@
 {
-  "name": "http-cache",
+  "name": "http-request-cache",
   "version": "0.0.1",
   "description": "http request cache",
-  "repository": "https://gitee.com/wuliaodexuanze/http-cache.git",
+  "repository": "https://gitee.com/wuliaodexuanze/http-request-cache.git",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
